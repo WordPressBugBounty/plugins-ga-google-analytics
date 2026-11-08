@@ -9,9 +9,9 @@ Author URI: https://plugin-planet.com/
 Donate link: https://monzillamedia.com/donate.html
 Contributors: specialk
 Requires at least: 4.7
-Tested up to: 7.1
-Stable tag: 20260810
-Version:    20260810
+Tested up to: 7.2
+Stable tag: 20261108
+Version:    20261108
 Requires PHP: 5.6.20
 Text Domain: ga-google-analytics
 Domain Path: /languages
@@ -326,17 +326,16 @@ If you like GA Google Analytics, please take a moment to [give a 5-star rating](
 > ✨ Pro version available! Check out [GA Pro &raquo;](https://plugin-planet.com/ga-google-analytics-pro/)
 
 
-**20260810**
+**20261108**
 
+* Checks plugin with Plugin Check
+* Improves security of core functions
+* Improves security of plugin settings
+* Improves sanitization of JavaScript output
+* Improves security of internal redirects
+* Improves security of plugin files
 * Updates plugin settings page
-* Tests on WordPress 7.1
-
-**20260421**
-
-* Fixes bug with reset options
-* Updates plugin settings page
-* Improves readme.txt documentation
-* Tests on WordPress 7.0
+* Tests on WordPress 7.2
 
 
 Full changelog @ [https://plugin-planet.com/wp/changelog/ga-google-analytics.txt](https://plugin-planet.com/wp/changelog/ga-google-analytics.txt)
