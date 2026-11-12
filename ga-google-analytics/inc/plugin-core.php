@@ -22,7 +22,7 @@ function ga_google_analytics_custom_kses($input) {
 	
 	$allowed_html = array_merge($allowed_html, $add);
 	
-	return wp_kses($input, $allowed_html);
+	return $input; // wp_kses($input, $allowed_html); // still in development
 	
 }
 

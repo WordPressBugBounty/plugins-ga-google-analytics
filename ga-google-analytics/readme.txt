@@ -10,8 +10,8 @@ Donate link: https://monzillamedia.com/donate.html
 Contributors: specialk
 Requires at least: 4.7
 Tested up to: 7.2
-Stable tag: 20261108
-Version:    20261108
+Stable tag: 20261112
+Version:    20261112
 Requires PHP: 5.6.20
 Text Domain: ga-google-analytics
 Domain Path: /languages
@@ -325,6 +325,11 @@ If you like GA Google Analytics, please take a moment to [give a 5-star rating](
 
 > ✨ Pro version available! Check out [GA Pro &raquo;](https://plugin-planet.com/ga-google-analytics-pro/)
 
+
+**20261112**
+
+* Fixes bug with escaping output
+* Tests on WordPress 7.2
 
 **20261108**
 
